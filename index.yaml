@@ -3,6 +3,25 @@ entries:
   idmz:
   - apiVersion: v2
     appVersion: 0.0.2
+    created: "2022-02-15T22:23:08.166473495Z"
+    description: Helm chart for IDMZs.
+    digest: c6cb2faa53552aa583ee0dc850ec76b29792af861f1c5d78d59716b0ca5cc680
+    home: https://github.com/alphabet5/idmz-helm
+    keywords:
+    - idmz
+    - dmz
+    maintainers:
+    - name: alphabet5
+      url: https://github.com/alphabet5
+    name: idmz
+    sources:
+    - https://github.com/alphabet5/idmz-helm
+    type: application
+    urls:
+    - https://github.com/alphabet5/idmz-helm/releases/download/idmz-0.0.15/idmz-0.0.15.tgz
+    version: 0.0.15
+  - apiVersion: v2
+    appVersion: 0.0.2
     created: "2022-02-15T20:57:20.631010949Z"
     description: Helm chart for IDMZs.
     digest: 11c6269f49fedec21be1a769ea9db6d1d615f9d54a625531b19c64a413ad2602
@@ -248,4 +267,4 @@ entries:
     urls:
     - https://github.com/alphabet5/idmz-helm/releases/download/idmz-0.0.2/idmz-0.0.2.tgz
     version: 0.0.2
-generated: "2022-02-15T20:57:20.63108735Z"
+generated: "2022-02-15T22:23:08.166623098Z"
