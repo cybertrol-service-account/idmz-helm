@@ -22,6 +22,26 @@ entries:
     - https://github.com/cybertrol-engineering/idmz-helm/releases/download/idmz-0.0.23-alpha-1/idmz-0.0.23-alpha-1.tgz
     version: 0.0.23-alpha-1
   - apiVersion: v2
+    created: "2022-06-13T18:51:58.077096264Z"
+    description: Helm chart for common IDMZ applications.
+    digest: a03854940a7f1138c71281951aa43f2e5fadcdbb05960680dca7ce025d9d265e
+    home: https://github.com/cybertrol-engineering/idmz-helm
+    keywords:
+    - idmz
+    - dmz
+    maintainers:
+    - name: alphabet5
+      url: https://github.com/alphabet5
+    - name: tlitke5
+      url: https://github.com/tlitke5
+    name: idmz
+    sources:
+    - https://github.com/cybertrol-engineering/idmz-helm
+    type: application
+    urls:
+    - https://github.com/cybertrol-engineering/idmz-helm/releases/download/idmz-0.0.23-alpha.77/idmz-0.0.23-alpha.77.tgz
+    version: 0.0.23-alpha.77
+  - apiVersion: v2
     created: "2022-05-26T18:06:29.923855955Z"
     description: Helm chart for common IDMZ applications.
     digest: 7eeb1ef511435df769a378f2b00760a7427e878759a9ce7b03969d7e6a2d3f50
@@ -1940,4 +1960,4 @@ entries:
     urls:
     - https://github.com/alphabet5/idmz-helm/releases/download/idmz-0.0.2/idmz-0.0.2.tgz
     version: 0.0.2
-generated: "2022-05-26T18:06:29.926283057Z"
+generated: "2022-06-13T18:51:58.07923169Z"
