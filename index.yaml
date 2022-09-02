@@ -2,6 +2,26 @@ apiVersion: v1
 entries:
   idmz:
   - apiVersion: v2
+    created: "2022-09-02T21:20:02.158531759Z"
+    description: Helm chart for common IDMZ applications.
+    digest: e1953b49dbff20930d55e4adb1d0d8379a7dca6b79356c80f6338357c43f55bd
+    home: https://github.com/cybertrol-engineering/idmz-helm
+    keywords:
+    - idmz
+    - dmz
+    maintainers:
+    - name: alphabet5
+      url: https://github.com/alphabet5
+    - name: cybertrol-engineering
+      url: https://github.com/cybertrol-engineering
+    name: idmz
+    sources:
+    - https://github.com/cybertrol-engineering/idmz-helm
+    type: application
+    urls:
+    - https://github.com/cybertrol-engineering/idmz-helm/releases/download/idmz-0.0.27/idmz-0.0.27.tgz
+    version: 0.0.27
+  - apiVersion: v2
     created: "2022-09-02T21:00:25.144967393Z"
     description: Helm chart for common IDMZ applications.
     digest: 866aae0c6226a2de137625e8e8f3ca9a780045eb729d4570da1235caea0b7340
@@ -2696,4 +2716,4 @@ entries:
     urls:
     - https://github.com/alphabet5/idmz-helm/releases/download/idmz-0.0.2/idmz-0.0.2.tgz
     version: 0.0.2
-generated: "2022-09-02T21:00:25.147495316Z"
+generated: "2022-09-02T21:20:02.162577933Z"
